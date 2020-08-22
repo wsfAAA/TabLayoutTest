@@ -1,3 +1,2 @@
-# GradientTabLayout
-====
-公司业务需求，将FlycoTabLayout进行修改，实现了背景色渐变
+CommonTabLayout 、SlidingTabLayout
+均可添加指示器渐变, 根据FlycoTabLayout进行修改
