@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GradientTabLayout.iml" filepath="$PROJECT_DIR$/GradientTabLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GradientTabLayout-master.iml" filepath="$PROJECT_DIR$/.idea/modules/GradientTabLayout-master.iml" group="GradientTabLayout-master" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GradientTabLayout_Lib/GradientTabLayout-master-GradientTabLayout_Lib.iml" filepath="$PROJECT_DIR$/.idea/modules/GradientTabLayout_Lib/GradientTabLayout-master-GradientTabLayout_Lib.iml" group="GradientTabLayout-master/GradientTabLayout_Lib" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/GradientTabLayout-master-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/GradientTabLayout-master-app.iml" group="GradientTabLayout-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/GradientTabLayout_Lib/GradientTabLayout_Lib.iml" filepath="$PROJECT_DIR$/GradientTabLayout_Lib/GradientTabLayout_Lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
